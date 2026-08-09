@@ -1,0 +1,1 @@
+ // 0-indexed even index -> 1-indexed odd position -> Red team
